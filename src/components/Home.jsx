@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import { useEffect, useState } from "react";
 import AddProduct from "./AddProduct";
 import ProductItem from "./ProductItem";

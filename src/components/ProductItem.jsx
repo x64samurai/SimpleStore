@@ -1,5 +1,3 @@
-/* eslint-disable react/prop-types */
-
 import { useDispatch } from "react-redux";
 import { addToCart } from "../redux/cart";
 import { removeQuantity } from "../redux/products";
